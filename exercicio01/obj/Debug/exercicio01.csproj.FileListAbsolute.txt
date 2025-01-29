@@ -1,0 +1,7 @@
+C:\Users\amanda.ssantos151\Documents\Visual Studio 2022\logicadeprogramacao\exercicio01\obj\Debug\exercicio01.csproj.AssemblyReference.cache
+C:\Users\amanda.ssantos151\Documents\Visual Studio 2022\logicadeprogramacao\exercicio01\obj\Debug\exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ssantos151\Documents\Visual Studio 2022\logicadeprogramacao\exercicio01\bin\Debug\exercicio01.exe.config
+C:\Users\amanda.ssantos151\Documents\Visual Studio 2022\logicadeprogramacao\exercicio01\bin\Debug\exercicio01.exe
+C:\Users\amanda.ssantos151\Documents\Visual Studio 2022\logicadeprogramacao\exercicio01\bin\Debug\exercicio01.pdb
+C:\Users\amanda.ssantos151\Documents\Visual Studio 2022\logicadeprogramacao\exercicio01\obj\Debug\exercicio01.exe
+C:\Users\amanda.ssantos151\Documents\Visual Studio 2022\logicadeprogramacao\exercicio01\obj\Debug\exercicio01.pdb
